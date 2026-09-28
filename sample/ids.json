@@ -1,0 +1,13 @@
+{
+  "budget": 2,
+  "bad_digits_code": "E_BAD_DIGITS",
+  "short_code": "E_TOO_SHORT",
+  "event_error_code": "E_BAD_EVENT",
+  "state": { "issued": [], "checks": [], "ledger": [], "applied": [] },
+  "events": [
+    { "id": 1, "kind": "number", "digits": "7992739871" },
+    { "id": 2, "kind": "check", "digits": "79927398713" },
+    { "id": 3, "kind": "check", "digits": "79927398712" },
+    { "id": 4, "kind": "number", "digits": "12" }
+  ]
+}
